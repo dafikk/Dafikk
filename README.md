@@ -47,18 +47,13 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 📈 GitHub Activity Graph 📈
 </h2>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dafikk&theme=high-contrast" alt="GitHub Activity Graph" />
-  </a>
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
-</p>
+    <img src="https://github-readme-stats.vercel.app/api?username=dafikk&show_icons=true&theme=tokyonight" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dafikk&theme=nord&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafikk&layout=compact&theme=tokyonight" />
+</div>
 
 ###
-
-<div align="left">
- <!--   <img src="https://github-readme-stats.vercel.app/api?username=EkiZR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dafikk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>  
 
 ###
