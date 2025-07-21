@@ -48,9 +48,9 @@ Feel free to reach out to me if you want to discuss tech, development, or just h
 </h2>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dafikk&theme=high-contrast" alt="GitHub Activity Graph" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=dafikk&theme=nord&hide_border=false" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dafikk&layout=compact&theme=tokyonight" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=dafikk&theme=nord&hide_border=false" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dafikk&theme=high-contrast" alt="GitHub Activity Graph" />
 </div>
 
 ###
