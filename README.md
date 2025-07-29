@@ -22,7 +22,7 @@ Recent graduate/Entry-level Full Stack Developer with a strong understanding of 
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,css,javascript,tailwindcss,nodejs,mysql,vscode,github,linux,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vite,html,css,javascript,tailwindcss,nodejs,expressjs,mysql,vscode,github,linux" />
 
 <h2 align="center">
   🤝 Connect with Me 🤝
