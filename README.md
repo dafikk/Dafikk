@@ -4,15 +4,14 @@
         <img align="center" src="https://images.steamusercontent.com/ugc/2497890817561341989/3928F72A364433F94552C2FBDFFD38AD650771B2/" width="600">
     </p> -->
     <p>
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=BB00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dafikk!;+a+Fullstack+Developer" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=BB00FFFF&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Dafikk!;+a+Video+Editor; game+and+tech+enthusiast" />
     </p>
 </h1>
 
+## life enjoy
 
-## 🌟 Web and Mobile Developer | Tech Enthusiast 🚀
 ![](https://komarev.com/ghpvc/?username=dafikk&style=flat-square)
 
-From the editing suite to the terminal — a weird pivot, but here we are. Ex-video editor figuring out how to speak to machines in a deeper language: code.
 <h2>
 - Skills 
 </h2>
